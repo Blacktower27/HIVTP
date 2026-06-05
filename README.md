@@ -46,12 +46,11 @@ bash examples/models/llava_next.sh
 If you want to change the dataset, please directly modify this bash script in lmms-eval.
 ## Cite us
 ```bash
-@inproceedings{xu2026redvtp,
-  title={RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning},
-  author={Xu, Jingqi and Lu, Jingxi and Li, Chenghao and Sarkar, Sreetama and Kundu, Souvik and A Beerel, Peter},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={2783--2792},
-  year={2026}
+@article{xu2025hivtp,
+  title={HIVTP: A Training-Free Method to Improve VLMs Efficiency via Hierarchical Visual Token Pruning Using Middle-Layer-Based Importance Score},
+  author={Xu, Jingqi and Lu, Jingxi and Li, Chenghao and Sarkar, Sreetama and Beerel, Peter A},
+  journal={arXiv preprint arXiv:2509.23663},
+  year={2025}
 }
 ```
 
